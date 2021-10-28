@@ -1,0 +1,8 @@
+.MuiPaper-elevation {
+  box-shadow: inherit !important;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
